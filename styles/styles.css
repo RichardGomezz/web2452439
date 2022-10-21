@@ -15,10 +15,17 @@ header{
 main{
     background-color: blue;
     height: 80vh;
+    display: flex;
 
 }
 footer{
 background-color: chartreuse;
 height: 10vh;
 
+}
+article{
+    border: 1px solid red;
+    background-color: blue;
+    width: 25%;
+    text-align: center;
 }
